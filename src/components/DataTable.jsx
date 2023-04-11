@@ -75,7 +75,7 @@ class DataTable extends Component{
 
     componentDidMount() {
         let url = "https://docs.google.com/spreadsheets/d/";
-        let sheet_id = "1s4Die_W5Euxq2Hi1rznWMQm5GKZ9v7EjjdzXOpiCS2A";
+        let sheet_id = "1Fq-xZtvqnOhB128JPKRpEHS5YThSgDSihuX1wszYcXw";
         let query1 = "/gviz/tq";
         let endpoint = `${url}${sheet_id}${query1}`;
         if (! this.isLoaded) {
@@ -104,7 +104,7 @@ class DataTable extends Component{
             <div className="project-details-container">
                 <div className="usage-filter count-box"></div>
                 <div className="titl">
-                    <h1 className="Software_heading"><u>PROJECTS IN PORTFOLIO</u> </h1>
+                    <h1 className="Software_heading"><u>Eukleia Projects</u> </h1>
                     <h2 className="Software_heading2">Swipe & Click Icons to Filter </h2>
                 </div>
             </div>
