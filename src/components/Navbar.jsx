@@ -28,7 +28,7 @@ class NavBar extends  Component{
       </Modal>
       <div className="container flex flex-wrap justify-between items-center mx-auto flex items-center">
       <span id="nav-title" className="leading-none self-center text-2xl sm:text-4xl font-semibold whitespace-nowrap text-white md:text-5xl mt-1 mb-2">
-        <u>Julian PASSEBECQ / 27</u><br/>Energy & Data Engineer
+        <u>Julian PASSEBECQ </u><br/>EUKLEIA
       </span>
         <div className="graph_one">
           <table id="animations-example-6" className="charts-css column show-labels hide-data data-spacing-5 show-primary-axis">
